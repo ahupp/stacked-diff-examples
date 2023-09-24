@@ -1,3 +1,4 @@
 # stacked-diff-examples
 
-A line
+A line!
+A second line
